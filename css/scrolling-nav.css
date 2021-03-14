@@ -1,0 +1,67 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.bg-desk {
+  height: 600px;
+  background-image:url("../andrew-neel-cckf4TsHAuw-unsplash.jpg");
+  background-size: cover;
+  background-position: -5%;
+}
+
+.profile-image {
+  border-radius: 50%;
+  position: absolute;
+  right: -10%;
+  top: -75%;
+}
+
+.head-text {
+  font-family: 'Open Sans Condensed', sans-serif;
+  letter-spacing: .5rem;
+  background: rgba(0, 0, 0, 0.452);
+  border-radius: 50px;
+  position: relative;
+  top: 1%;
+  text-align: center;
+  color: white;
+
+}
+
+.bg-texture1{
+  color: #D2D9D1;
+  text-shadow: 2px 2px #000000;
+  background-color: #1c021b;
+background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.bg-portfolio{
+  background-color: #D2D9D1;
+}
+
+.port-header{
+  color: #a73951;
+}
+
+.about-header{
+  color: #4fd4c0;
+}
+
+.contact-links{
+  padding: 50px;
+}
+
+.link-icon{
+  margin: auto;
+  padding: 10px;
+}
